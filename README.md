@@ -1,8 +1,11 @@
-# x402-agent-shopper — an autonomous x402 buyer that shops three strangers' APIs
+# x402-agent-shopper - an autonomous x402 buyer that shops three strangers' APIs
 
-A 20-minute live demo, built as a working program. An autonomous agent is given one goal —  *"what time is it in Mumbai, and is the seller safe to buy from?"* — and it has to **find** sellers, **check** them, **pay** them and come back with a **verifiable result**, without a human in the loop and without knowing any of them in advance.
+An autonomous agent is given one goal —  *"what time is it in Mumbai, and is the seller safe to buy from?"* — and it has to **find** sellers, **check** them, **pay** them and come back with a **verifiable result**, without a human in the loop and without knowing any of them in advance.
 
 Two of the three hops belong to servers we do not own. That is the point.
+
+<img width="1260" height="678" alt="01-shopper" src="https://github.com/user-attachments/assets/c1b9caa4-34a2-42b2-84c1-95d03a7f4dc4" />
+<img width="1260" height="678" alt="04-shopper-dry" src="https://github.com/user-attachments/assets/0074ae45-80ed-43fd-be6a-b40fa62be6d5" />
 
 ```
 01 DISCOVER  8 candidates for "timezone"                       bazaar
